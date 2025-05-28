@@ -1,0 +1,15 @@
+.env
+venv
+**/__pycache__
+**/*.json
+**/*.csv
+**/*.tfstate*
+**/.terraform
+**/.terraform*
+.DS_Store
+package/
+dependencies/
+data/
+.coverage
+postgres_pipeline.py
+mvp.png
